@@ -1,0 +1,30 @@
+{
+  "slug": "Hexacorde",
+  "name": "Hexacorde",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Hexacorde",
+  "author": "luginf",
+  "authorEmail": "",
+  "authorUrl": "https://github.com/luginf",
+  "pluginUrl": "https://github.com/luginf/hexacorde-vcv",
+  "manualUrl": "https://github.com/luginf/hexacorde-vcv#readme",
+  "sourceUrl": "https://github.com/luginf/hexacorde-vcv",
+  "changelogUrl": "https://github.com/luginf/hexacorde-vcv/blob/main/CHANGELOG.md",
+  "tags": [
+    "Sequencer",
+    "Polyphonic",
+    "Utility"
+  ],
+  "modules": [
+    {
+      "slug": "Hexacorde",
+      "name": "Hexacorde",
+      "description": "Oracular step sequencer: I Ching hexagrams on a grid send notes to each other.",
+      "tags": [
+        "Sequencer",
+        "Polyphonic"
+      ]
+    }
+  ]
+}
